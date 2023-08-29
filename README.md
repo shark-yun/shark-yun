@@ -8,7 +8,10 @@
   <a href="https://github.com/proudjiao">
     <img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-<!--   <a href="https://qianli-wu.com">
+  <a href="https://github.com/proudjiao">
+    <img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=Github&logoColor=white" alt="Medium Badge"/>
+  </a>
+<!--   <a href="https://sharkyun.medium.com/">
     <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio Badge"/>
   </a> -->
 </div>
