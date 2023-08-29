@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=proudjiao&style=flat-square&color=blue" alt=""/>
 </p> -->
 <h1>
-  Hey there <img src="https://images.immediate.co.uk/production/volatile/sites/23/2023/06/Megalodon-Getty-7147431.jpg"/> I'm Yun Lin
+  Hey there <img src="https://images.immediate.co.uk/production/volatile/sites/23/2023/06/Megalodon-Getty-7147431.jpg" width="30px"/> I'm Yun Lin
 </h1>
 
 - 👨‍💻 I’m a former Data Anlyst intern and Data Science intern at Neurobit Health
