@@ -11,9 +11,9 @@
   <a href="https://sharkyun.medium.com/">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
 </a>
-<!--   <a href="(https://shark-yun.github.io/)">
+<a href="https://shark-yun.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio Badge"/>
-  </a> -->
+  </a> 
 </div>
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=proudjiao&style=flat-square&color=blue" alt=""/>
@@ -25,7 +25,7 @@
 
 - 👨‍💻 I’m a former Data Anlyst intern and Data Science intern at Neurobit Health
 - 👀 I’m interested in **Software Engineer** and **Data Science**
-//- 💞️ I’m looking for a summer internship in 2024
+<!-- - 💞️ I’m looking for a summer internship in 2024-->
 - 🌱 I’m currently learning **Large Language Model (LLM)** and **Golang**
 - 📫 How to reach me: [yunl@g.ucla.edu](mailto:yunl@g.ucla.edu)
 
