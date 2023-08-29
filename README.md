@@ -2,7 +2,7 @@
   <img src='https://gifdb.com/images/high/jinx-arcane-498-x-498-gif-6l0ymslhfnoegt9z.gif' width='150'></img>
 </p>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/proudjiao/">
+  <a href="[https://www.linkedin.com/in/proudjiao/](https://www.linkedin.com/in/yun-lin-24178716b/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/proudjiao">
@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=proudjiao&style=flat-square&color=blue" alt=""/>
 </p> -->
 <h1>
-  Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Proud Jiao
+  Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Yun Lin
 </h1>
 
 
