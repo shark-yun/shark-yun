@@ -1,11 +1,11 @@
 <p align="center">
-  <img src='https://gifdb.com/images/high/jinx-arcane-498-x-498-gif-6l0ymslhfnoegt9z.gif' width='150'></img>
+  img src="https://images.immediate.co.uk/production/volatile/sites/23/2023/06/Megalodon-Getty-7147431.jpg" width='150'></img>
 </p>
 <div id="badges" align="center">
   <a href="[https://www.linkedin.com/in/proudjiao/](https://www.linkedin.com/in/yun-lin-24178716b/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/proudjiao">
+  <a href="https://github.com/shark-yun">
     <img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://sharkyun.medium.com/">
@@ -18,10 +18,10 @@
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=proudjiao&style=flat-square&color=blue" alt=""/>
 </p> -->
-<h1>
-  Hey there <img src="https://images.immediate.co.uk/production/volatile/sites/23/2023/06/Megalodon-Getty-7147431.jpg" width="30px"/> I'm Yun Lin
-</h1>
 
+<h1>
+  Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Yun Lin
+</h1>
 - 👨‍💻 I’m a former Data Anlyst intern and Data Science intern at Neurobit Health
 - 👀 I’m interested in **Software Engineer** and **Data Science**
 <!-- - 💞️ I’m looking for a summer internship in 2024-->
