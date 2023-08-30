@@ -24,7 +24,6 @@
 </h1>
 - 👨‍💻 I’m a former Data Anlyst intern and Data Science intern at Neurobit Health
 - 👀 I’m interested in **Software Engineer** and **Data Science**
-
 - 🌱 I’m currently learning **Large Language Model (LLM)** and **Golang**
 - 📫 How to reach me: [yunl@g.ucla.edu](mailto:yunl@g.ucla.edu)
 
