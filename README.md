@@ -22,9 +22,9 @@
 <h1>
   Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Yun Lin
 </h1>
-- 👨‍💻 I’m a former Data Anlyst intern and Data Science intern at Neurobit Health
+- 👨‍💻 I’m a former Data Anlyst intern at Applify AI and Data Science intern at Neurobit Health
 - 👀 I’m interested in **Software Engineer** and **Data Science**
-- 🌱 I’m currently learning **Large Language Model (LLM)** and **Golang**
+- 🌱 I’m currently learning **Large Language Model (LLM)**
 - 📫 How to reach me: [yunl@g.ucla.edu](mailto:yunl@g.ucla.edu)
 
 ---
