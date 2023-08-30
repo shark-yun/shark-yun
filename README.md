@@ -22,15 +22,13 @@
 <h1>
   Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Yun Lin
 </h1>
-- 👨‍💻 I’m a former Data Anlyst intern at Applify AI and Data Science intern at Neurobit Health
+
+<h3 align="center">About Me</h3>
+
+- 👨‍💻 I’m a former Data Analyst intern at Applify AI and Data Science intern at Neurobit Health
 - 👀 I’m interested in **Financial Engineering** and **Data Science**
 - 🌱 I’m currently learning **Large Language Model (LLM)**
 - 📫 How to reach me: [yunl@g.ucla.edu](mailto:yunl@g.ucla.edu)
-- 👨‍💻 I’m a former Software Engineer intern at Energy Ogre and Data Engineer intern at GuanData
-- 👀 I’m interested in **Software Engineer** and **Data Science**
-- 💞️ I’m looking for a summer internship in 2024
-- 🌱 I’m currently learning **Large Language Model (LLM)** and **Golang**
-- 📫 How to reach me: [jiaop24@g.ucla.edu](mailto:jiaop24@g.ucla.edu)
 
 ---
 
