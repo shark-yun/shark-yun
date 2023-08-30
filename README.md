@@ -23,7 +23,6 @@
   Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Yun Lin
 </h1>
 
-<h3 align="center">About Me</h3>
 
 - 👨‍💻 I’m a former Data Analyst intern at Applify AI and Data Science intern at Neurobit Health
 - 👀 I’m interested in **Financial Engineering** and **Data Science**
