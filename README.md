@@ -24,9 +24,10 @@
 </h1>
 
 
-- 👨‍💻 I’m a former Data Analyst intern at Applify AI and Data Science intern at Neurobit Health
-- 👀 I’m interested in **Financial Engineering** and **Data Science**
-- 🌱 I’m currently learning **Large Language Model (LLM)**
+- 👨‍💻 I’m a Data Scientist at Foxconn Interconnect Technology
+- 🌱 Meanwhile, I’m also taking **MSCS at Georgia Tech** 
+- 👀 former Data Analyst intern at Applify AI and Data Science intern at Neurobit Health
+- 👀 I’m interested in any collab
 - 📫 How to reach me: [yunl@g.ucla.edu](mailto:yunl@g.ucla.edu)
 
 ---
