@@ -8,10 +8,10 @@
   <a href="https://github.com/shark-yun">
     <img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://sharkyun.medium.com/">
+  <a href="https://sharkyun.medium.com">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="https://shark-yun.github.io/">
+  <a href="https://shark-yun.github.io">
       <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio Badge"/>
     </a> 
 </div>
