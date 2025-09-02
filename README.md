@@ -27,8 +27,7 @@
 - 👨‍💻 I’m a Data Scientist at Foxconn Interconnect Technology
 - 🌱 Meanwhile, I’m also taking **MSCS at Georgia Tech** 
 - 👀 Former Data Analyst intern at Applify AI and Data Science intern at Neurobit Health
-- Interested in any collab
-- 📫 How to reach me: [yunl@g.ucla.edu](mailto:yunl@g.ucla.edu)
+- 📫 Interested in any collab [yunl@g.ucla.edu](mailto:yunl@g.ucla.edu)
 
 ---
 
