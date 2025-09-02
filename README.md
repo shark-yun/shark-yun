@@ -5,9 +5,9 @@
   <a href="[https://www.linkedin.com/in/proudjiao/](https://www.linkedin.com/in/yun-lin-24178716b/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/shark-yun">
+<!--   <a href="https://github.com/shark-yun">
     <img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
-  </a>
+  </a> -->
   <a href="https://sharkyun.medium.com">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
