@@ -10,10 +10,10 @@
   </a>
   <a href="https://sharkyun.medium.com/">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
-</a>
-<a href="https://shark-yun.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio Badge"/>
-  </a> 
+  </a>
+  <a href="https://shark-yun.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio Badge"/>
+    </a> 
 </div>
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=proudjiao&style=flat-square&color=blue" alt=""/>
