@@ -29,6 +29,20 @@
 - 👀 Former Data Analyst intern at Applify AI and Data Science intern at Neurobit Health
 - 📫 Interested in any collab [yunl@g.ucla.edu](mailto:yunl@g.ucla.edu)
 
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://shark-yun.github.io/market-insights-agent/dashboard/">
+  <img src="https://img.shields.io/badge/📈_Market_Insights_Agent-Dashboard-blue?style=for-the-badge" alt="Market Insights Agent"/>
+</a>
+
+<a href="https://foxconn-radar.vercel.app/">
+  <img src="https://img.shields.io/badge/🛰️_Foxconn_Radar-Live-success?style=for-the-badge" alt="Foxconn Radar"/>
+</a>
+
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
